@@ -4,13 +4,15 @@ Introduction
 -----------
 This QR code generator allows you to create QR codes for various types of data, such as text, URLs, contact information, and more. Generate QR codes quickly and easily for sharing and scanning purposes. Flexible and customizable for diverse applications
 
-![qrs](https://github.com/Bhya23cse/Qr-code-Generator/assets/153095725/a03c4fd9-9142-4bd6-b680-fecdae4a1b5e)
+![qrs](https://github.com/Bhya23cse/Qr-code-Generator/assets/153095725/18cf3b1d-10f4-412f-836c-9ca57fa9fec2)
+
 
 
 My-Link👆👆👆
 
 # Output Layout
-![qr](https://github.com/Bhya23cse/Qr-code-Generator/assets/153095725/6501b81b-7e0f-4a5a-b885-9573c2d5f3c4)
+![qr](https://github.com/Bhya23cse/Qr-code-Generator/assets/153095725/741dc644-25e2-4e84-bd2f-ad7a122e996f)
+
 
 
 # Libraries Used in this Project
